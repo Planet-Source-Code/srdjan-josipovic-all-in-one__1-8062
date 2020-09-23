@@ -1,0 +1,8 @@
+frmMenu = 198, 198, 669, 642, Z, 22, 22, 529, 466, C
+grphModule = 0, 0, 0, 0, C
+sndModule = 0, 0, 0, 0, C
+frmMenu2 = 66, 66, 628, 510, C, 0, 0, 554, 436, C
+frmMenu1 = 0, 0, 0, 0, C, 22, 22, 576, 458, C
+frmAbout = 0, 0, 0, 0, C, 0, 0, 0, 0, C
+frmCursor = 0, 0, 0, 0, C, 0, 0, 0, 0, C
+curModule = 0, 0, 0, 0, C
